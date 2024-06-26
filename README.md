@@ -1,4 +1,12 @@
-## Hi there 👋
+### Hi, I'm Mutohir! 👋
+
+👨🏾‍💻 FrontEnd Developer sharing and documenting my journey in tech <br>
+👨🏽‍🎓 Alulmi at AltSchool Africa School of Engineering <br>
+📜 Documenting my journey on Twitter [@mutohir_exe](https://twitter.com/mutohir_exe) <br>
+💭 Currently learning the fundamentals of UI/UX design
+
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+[![Mutohir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mutohi-R&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Mutohi-R/Mutohi-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
